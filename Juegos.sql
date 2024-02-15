@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: db
--- Tiempo de generación: 15-02-2024 a las 14:53:30
+-- Tiempo de generación: 15-02-2024 a las 15:31:05
 -- Versión del servidor: 10.8.8-MariaDB-1:10.8.8+maria~ubu2204
 -- Versión de PHP: 8.2.11
 
@@ -127,7 +127,7 @@ ALTER TABLE `GENERO`
 -- Indices de la tabla `GENERO_VIDEOJUEGO`
 --
 ALTER TABLE `GENERO_VIDEOJUEGO`
-  ADD PRIMARY KEY (`id_videojuego`),
+  ADD PRIMARY KEY (`id_videojuego`,`id_genero`),
   ADD KEY `id_genero` (`id_genero`);
 
 --
