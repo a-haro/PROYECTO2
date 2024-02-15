@@ -3,7 +3,6 @@ function mostrar_menu()
 {
     include "navbar.html";
 }
-// FOOTER
 function footer()
 {
     $footer = '
