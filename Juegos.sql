@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: db
--- Tiempo de generación: 15-02-2024 a las 15:31:05
+-- Tiempo de generación: 15-02-2024 a las 16:27:01
 -- Versión del servidor: 10.8.8-MariaDB-1:10.8.8+maria~ubu2204
 -- Versión de PHP: 8.2.11
 
@@ -39,7 +39,7 @@ CREATE TABLE `DESARROLLADOR` (
 --
 
 CREATE TABLE `DESARROLLADOR_VIDEOJUEGO` (
-  `id_videojuego` varchar(25) NOT NULL,
+  `id_videojuego` int(11) NOT NULL,
   `id_desarrollador` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
@@ -61,7 +61,7 @@ CREATE TABLE `GENERO` (
 --
 
 CREATE TABLE `GENERO_VIDEOJUEGO` (
-  `id_videojuego` varchar(25) NOT NULL,
+  `id_videojuego` int(11) NOT NULL,
   `id_genero` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
@@ -83,7 +83,7 @@ CREATE TABLE `PLATAFORMA` (
 --
 
 CREATE TABLE `PLATAFORMA_VIDEOJUEGO` (
-  `id_videojuego` varchar(25) NOT NULL,
+  `id_videojuego` int(11) NOT NULL,
   `id_plataforma` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
@@ -94,7 +94,7 @@ CREATE TABLE `PLATAFORMA_VIDEOJUEGO` (
 --
 
 CREATE TABLE `VIDEOJUEGO` (
-  `id` varchar(25) NOT NULL,
+  `id` int(11) NOT NULL,
   `nombre` varchar(50) NOT NULL,
   `fecha_lanzamiento` date NOT NULL,
   `pegi` enum('3','7','12','16','18') NOT NULL
@@ -115,7 +115,8 @@ ALTER TABLE `DESARROLLADOR`
 --
 ALTER TABLE `DESARROLLADOR_VIDEOJUEGO`
   ADD PRIMARY KEY (`id_videojuego`,`id_desarrollador`),
-  ADD KEY `id_desarrollador` (`id_desarrollador`);
+  ADD KEY `id_desarrollador` (`id_desarrollador`),
+  ADD KEY `id_videojuego` (`id_videojuego`);
 
 --
 -- Indices de la tabla `GENERO`
@@ -128,7 +129,8 @@ ALTER TABLE `GENERO`
 --
 ALTER TABLE `GENERO_VIDEOJUEGO`
   ADD PRIMARY KEY (`id_videojuego`,`id_genero`),
-  ADD KEY `id_genero` (`id_genero`);
+  ADD KEY `id_genero` (`id_genero`),
+  ADD KEY `id_videojuego` (`id_videojuego`);
 
 --
 -- Indices de la tabla `PLATAFORMA`
@@ -141,13 +143,15 @@ ALTER TABLE `PLATAFORMA`
 --
 ALTER TABLE `PLATAFORMA_VIDEOJUEGO`
   ADD PRIMARY KEY (`id_videojuego`,`id_plataforma`),
-  ADD KEY `id_plataforma` (`id_plataforma`);
+  ADD KEY `id_plataforma` (`id_plataforma`),
+  ADD KEY `id_videojuego` (`id_videojuego`);
 
 --
 -- Indices de la tabla `VIDEOJUEGO`
 --
 ALTER TABLE `VIDEOJUEGO`
-  ADD PRIMARY KEY (`id`);
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `id` (`id`);
 
 --
 -- AUTO_INCREMENT de las tablas volcadas
@@ -169,6 +173,12 @@ ALTER TABLE `GENERO`
 -- AUTO_INCREMENT de la tabla `PLATAFORMA`
 --
 ALTER TABLE `PLATAFORMA`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT de la tabla `VIDEOJUEGO`
+--
+ALTER TABLE `VIDEOJUEGO`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
