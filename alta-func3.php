@@ -19,8 +19,7 @@
 
 <body>
     <?php
-    include "funciones.php";
-    mostrar_menu();
+    include "navbar.html";
     ?>
 
     <div class="contenedor">
@@ -86,6 +85,7 @@
     ?>
 
     <?php
+    include "funciones.php";
     echo footer();
     ?>
 </body>

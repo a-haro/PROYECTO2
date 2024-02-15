@@ -11,7 +11,6 @@ class db
             $conn = new PDO("mysql:host=$this->servername;dbname=Juegos", $this->username, $this->password);
             // set the PDO error mode to exception
             $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-            echo "Connected successfully";
         } catch (PDOException $e) {
             echo "Connection failed2: " . $e->getMessage();
         }
@@ -52,6 +51,19 @@ class db
         }
 
         $conn = null;
+    }
+    public function consulta($tablaConsultar)
+    {
+        $conn = $this->conectar();
+
+        try {
+            $stmt = $conn->prepare("SELECT * FROM $tablaConsultar");
+            $result = $stmt->execute();
+            $conn = null;
+            return ($stmt);
+        } catch (PDOException $e) {
+            echo "Error: " . $e->getMessage();
+        }
     }
     public function insertGenero($nombre)
     {

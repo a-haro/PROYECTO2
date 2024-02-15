@@ -40,10 +40,10 @@ hr.solid {
 
 .contenedor {
   display: flex;
-  margin: 5%;
+  margin: 1%;
 }
 
 .card {
   width: 100%;
-  margin: 2%;
+  margin: 1%;
 }

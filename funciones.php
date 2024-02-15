@@ -1,8 +1,4 @@
 <?php
-function mostrar_menu()
-{
-    include "navbar.html";
-}
 function footer()
 {
     $footer = '
@@ -48,5 +44,26 @@ function footer()
         </footer>';
 
     return $footer;
+}
+function generarTabla($tabla)
+{
+    // Paso del objeto PDO a array para trabajar con él
+    $tablaArray = $tabla->fetchAll(PDO::FETCH_ASSOC);
+
+    echo "<table class=\"table table-hover\">";
+    echo "<tr>";
+    foreach ($tablaArray[0] as $key => $value) {
+        echo "<th>" . $key . "</th>";
+    }
+    echo "</tr>";
+
+    foreach ($tablaArray as $fila) {
+        echo "<tr>";
+        foreach ($fila as $key => $value) {
+            echo "<td>" . $value . '</td>';
+        }
+        echo "</tr>";
+    }
+    echo "</table>";
 }
 ?>
