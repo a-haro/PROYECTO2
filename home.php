@@ -19,8 +19,7 @@
 
 <body>
     <?php
-    include "funciones.php";
-    mostrar_menu();
+    include "navbar.html";
     include "carousel.html";
     echo footer();
     ?>
