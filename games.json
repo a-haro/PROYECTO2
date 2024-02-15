@@ -1,0 +1,359 @@
+[
+    {
+        "Nom": "The Legend of Zelda: Breath of the Wild",
+        "Desenvolupador": "Nintendo",
+        "Plataforma": "Nintendo Switch",
+        "Llan\u00e7ament": "2017-03-03",
+        "Codigo": "COD655f7ed44202f"
+    },
+    {
+        "Nom": "The Witcher 3: Wild Hunt",
+        "Desenvolupador": "CD Projekt Red",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2015-05-19",
+        "Codigo": "COD655f7ed4421a9"
+    },
+    {
+        "Nom": "Red Dead Redemption 2",
+        "Desenvolupador": "Rockstar Games",
+        "Plataforma": "PlayStation 4, Xbox One, PC",
+        "Llan\u00e7ament": "2018-10-26",
+        "Codigo": "COD655f7ed4421ae"
+    },
+    {
+        "Nom": "Super Mario Odyssey",
+        "Desenvolupador": "Nintendo",
+        "Plataforma": "Nintendo Switch",
+        "Llan\u00e7ament": "2017-10-27",
+        "Codigo": "COD655f7ed4421af"
+    },
+    {
+        "Nom": "Cyberpunk 2077",
+        "Desenvolupador": "CD Projekt Red",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2020-12-10",
+        "Codigo": "COD655f7ed4421b0"
+    },
+    {
+        "Nom": "God of War",
+        "Desenvolupador": "Santa Monica Studio",
+        "Plataforma": "PlayStation 4, PlayStation 5",
+        "Llan\u00e7ament": "2018-04-20",
+        "Codigo": "COD655f7ed4421b1"
+    },
+    {
+        "Nom": "Horizon Zero Dawn",
+        "Desenvolupador": "Guerrilla Games",
+        "Plataforma": "PlayStation 4, PC",
+        "Llan\u00e7ament": "2017-02-28",
+        "Codigo": "COD655f7ed4421b2"
+    },
+    {
+        "Nom": "The Elder Scrolls V: Skyrim",
+        "Desenvolupador": "Bethesda Game Studios",
+        "Plataforma": "PC, PlayStation 3, Xbox 360",
+        "Llan\u00e7ament": "2011-11-11",
+        "Codigo": "COD655f7ed4421b3"
+    },
+    {
+        "Nom": "Final Fantasy VII Remake",
+        "Desenvolupador": "Square Enix",
+        "Plataforma": "PlayStation 4",
+        "Llan\u00e7ament": "2020-04-10",
+        "Codigo": "COD655f7ed4421b4"
+    },
+    {
+        "Nom": "Minecraft",
+        "Desenvolupador": "Mojang",
+        "Plataforma": "PC, PlayStation, Xbox, Switch, etc.",
+        "Llan\u00e7ament": "2011-11-18",
+        "Codigo": "COD655f7ed4421b5"
+    },
+    {
+        "Nom": "The Last of Us Part II",
+        "Desenvolupador": "Naughty Dog",
+        "Plataforma": "PlayStation 4, PlayStation 5",
+        "Llan\u00e7ament": "2020-06-19",
+        "Codigo": "COD655f7ed4421b6"
+    },
+    {
+        "Nom": "Genshin Impact",
+        "Desenvolupador": "miHoYo",
+        "Plataforma": "PC, PlayStation, Switch, iOS, Android",
+        "Llan\u00e7ament": "2020-09-28",
+        "Codigo": "COD655f7ed4421b7"
+    },
+    {
+        "Nom": "Assassin's Creed Valhalla",
+        "Desenvolupador": "Ubisoft",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2020-11-10",
+        "Codigo": "COD655f7ed4421b8"
+    },
+    {
+        "Nom": "Pok\u00e9mon FireRed \/ LeafGreen",
+        "Desenvolupador": "Game Freak",
+        "Plataforma": "Game Boy Advance",
+        "Llan\u00e7ament": "2004-01-29",
+        "Codigo": "COD655f7ed4421b9"
+    },
+    {
+        "Nom": "Animal Crossing: New Horizons",
+        "Desenvolupador": "Nintendo",
+        "Plataforma": "Nintendo Switch",
+        "Llan\u00e7ament": "2020-03-20",
+        "Codigo": "COD655f7ed4421ba"
+    },
+    {
+        "Nom": "Demon's Souls",
+        "Desenvolupador": "Bluepoint Games \/ SIE Japan Studio",
+        "Plataforma": "PlayStation 5",
+        "Llan\u00e7ament": "2020-11-12",
+        "Codigo": "COD655f7ed4421bb"
+    },
+    {
+        "Nom": "Call of Duty: Modern Warfare (2019)",
+        "Desenvolupador": "Infinity Ward",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2019-10-25",
+        "Codigo": "COD655f7ed4421bc"
+    },
+    {
+        "Nom": "Marvel's Spider-Man: Miles Morales",
+        "Desenvolupador": "Insomniac Games",
+        "Plataforma": "PlayStation 4, PlayStation 5",
+        "Llan\u00e7ament": "2020-11-12",
+        "Codigo": "COD655f7ed4421bd"
+    },
+    {
+        "Nom": "Hades",
+        "Desenvolupador": "Supergiant Games",
+        "Plataforma": "PC, Switch",
+        "Llan\u00e7ament": "2020-09-17",
+        "Codigo": "COD655f7ed4421be"
+    },
+    {
+        "Nom": "Death Stranding",
+        "Desenvolupador": "Kojima Productions",
+        "Plataforma": "PlayStation 4, PC",
+        "Llan\u00e7ament": "2019-11-08",
+        "Codigo": "COD655f7ed4421bf"
+    },
+    {
+        "Nom": "Stardew Valley",
+        "Desenvolupador": "ConcernedApe",
+        "Plataforma": "PC, PlayStation, Xbox, Switch, iOS, Android",
+        "Llan\u00e7ament": "2016-02-26",
+        "Codigo": "COD655f7ed4421c0"
+    },
+    {
+        "Nom": "Ghost of Tsushima",
+        "Desenvolupador": "Sucker Punch Productions",
+        "Plataforma": "PlayStation 4",
+        "Llan\u00e7ament": "2020-07-17",
+        "Codigo": "COD655f7ed4421c1"
+    },
+    {
+        "Nom": "Resident Evil Village",
+        "Desenvolupador": "Capcom",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-05-07",
+        "Codigo": "COD655f7ed4421c2"
+    },
+    {
+        "Nom": "Sekiro: Shadows Die Twice",
+        "Desenvolupador": "FromSoftware",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2019-03-22",
+        "Codigo": "COD655f7ed4421c3"
+    },
+    {
+        "Nom": "DOOM Eternal",
+        "Desenvolupador": "id Software",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2020-03-20",
+        "Codigo": "COD655f7ed4421c4"
+    },
+    {
+        "Nom": "Ratchet & Clank: Rift Apart",
+        "Desenvolupador": "Insomniac Games",
+        "Plataforma": "PlayStation 5",
+        "Llan\u00e7ament": "2021-06-11",
+        "Codigo": "COD655f7ed4421c5"
+    },
+    {
+        "Nom": "It Takes Two",
+        "Desenvolupador": "Hazelight Studios",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-03-26",
+        "Codigo": "COD655f7ed4421c6"
+    },
+    {
+        "Nom": "Pok\u00e9mon Diamond\/Pearl",
+        "Desenvolupador": "Game Freak",
+        "Plataforma": "Nintendo DS",
+        "Llan\u00e7ament": "2006-09-28",
+        "Codigo": "COD655f7ed4421c7"
+    },
+    {
+        "Nom": "Hitman 3",
+        "Desenvolupador": "IO Interactive",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-01-20",
+        "Codigo": "COD655f7ed4421c8"
+    },
+    {
+        "Nom": "Persona 5 Royal",
+        "Desenvolupador": "Atlus",
+        "Plataforma": "PlayStation 4",
+        "Llan\u00e7ament": "2020-03-31",
+        "Codigo": "COD655f7ed4421c9"
+    },
+    {
+        "Nom": "Metroid Dread",
+        "Desenvolupador": "Nintendo",
+        "Plataforma": "Nintendo Switch",
+        "Llan\u00e7ament": "2021-10-08",
+        "Codigo": "COD655f7ed4421ca"
+    },
+    {
+        "Nom": "Monster Hunter Rise",
+        "Desenvolupador": "Capcom",
+        "Plataforma": "Nintendo Switch, PC",
+        "Llan\u00e7ament": "2021-03-26",
+        "Codigo": "COD655f7ed4421cb"
+    },
+    {
+        "Nom": "Little Nightmares II",
+        "Desenvolupador": "Tarsier Studios",
+        "Plataforma": "PC, PlayStation, Xbox, Switch",
+        "Llan\u00e7ament": "2021-02-11",
+        "Codigo": "COD655f7ed4421cc"
+    },
+    {
+        "Nom": "Outriders",
+        "Desenvolupador": "People Can Fly",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-04-01",
+        "Codigo": "COD655f7ed4421cd"
+    },
+    {
+        "Nom": "Kena: Bridge of Spirits",
+        "Desenvolupador": "Ember Lab",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5",
+        "Llan\u00e7ament": "2021-09-21",
+        "Codigo": "COD655f7ed4421ce"
+    },
+    {
+        "Nom": "Mass Effect Legendary Edition",
+        "Desenvolupador": "BioWare",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2021-05-14",
+        "Codigo": "COD655f7ed4421cf"
+    },
+    {
+        "Nom": "Chicory: A Colorful Tale",
+        "Desenvolupador": "Greg Lobanov",
+        "Plataforma": "PC, PlayStation, Switch",
+        "Llan\u00e7ament": "2021-06-10",
+        "Codigo": "COD655f7ed4421d0"
+    },
+    {
+        "Nom": "Scarlet Nexus",
+        "Desenvolupador": "Bandai Namco Entertainment",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-06-25",
+        "Codigo": "COD655f7ed4421d1"
+    },
+    {
+        "Nom": "New Pok\u00e9mon Snap",
+        "Desenvolupador": "Bandai Namco Studios",
+        "Plataforma": "Nintendo Switch",
+        "Llan\u00e7ament": "2021-04-30",
+        "Codigo": "COD655f7ed4421d2"
+    },
+    {
+        "Nom": "Back 4 Blood",
+        "Desenvolupador": "Turtle Rock Studios",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-10-12",
+        "Codigo": "COD655f7ed4421d3"
+    },
+    {
+        "Nom": "NieR Replicant ver.1.22474487139...",
+        "Desenvolupador": "Toylogic",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2021-04-23",
+        "Codigo": "COD655f7ed4421d4"
+    },
+    {
+        "Nom": "Pok\u00e9mon Black\/White",
+        "Desenvolupador": "Game Freak",
+        "Plataforma": "Nintendo DS",
+        "Llan\u00e7ament": "2010-03-04",
+        "Codigo": "COD655f7ed4421d5"
+    },
+    {
+        "Nom": "Riders Republic",
+        "Desenvolupador": "Ubisoft Annecy",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-10-28",
+        "Codigo": "COD655f7ed4421d6"
+    },
+    {
+        "Nom": "The Medium",
+        "Desenvolupador": "Bloober Team",
+        "Plataforma": "PC, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-01-28",
+        "Codigo": "COD655f7ed4421d7"
+    },
+    {
+        "Nom": "Resident Evil 3 Remake",
+        "Desenvolupador": "Capcom",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2020-04-03",
+        "Codigo": "COD655f7ed4421d8"
+    },
+    {
+        "Nom": "Bravely Default II",
+        "Desenvolupador": "Silicon Studio \/ Claytechworks",
+        "Plataforma": "Nintendo Switch",
+        "Llan\u00e7ament": "2021-02-26",
+        "Codigo": "COD655f7ed4421d9"
+    },
+    {
+        "Nom": "Age of Empires IV",
+        "Desenvolupador": "Relic Entertainment",
+        "Plataforma": "PC",
+        "Llan\u00e7ament": "2021-10-28",
+        "Codigo": "COD655f7ed4421da"
+    },
+    {
+        "Nom": "Halo Infinite",
+        "Desenvolupador": "343 Industries",
+        "Plataforma": "PC, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-12-08",
+        "Codigo": "COD655f7ed4421db"
+    },
+    {
+        "Nom": "Far Cry 6",
+        "Desenvolupador": "Ubisoft",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-10-07",
+        "Codigo": "COD655f7ed4421dc"
+    },
+    {
+        "Nom": "Deathloop",
+        "Desenvolupador": "Arkane Studios",
+        "Plataforma": "PC, PlayStation 5",
+        "Llan\u00e7ament": "2021-09-14",
+        "Codigo": "COD655f7ed4421dd"
+    },
+    {
+        "Nom": "Far Cry 6",
+        "Desenvolupador": "Ubisoft",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X\/S",
+        "Llan\u00e7ament": "2021-10-07",
+        "Codigo": "COD655f7ed4421dc"
+    }
+]

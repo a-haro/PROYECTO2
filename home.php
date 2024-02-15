@@ -22,7 +22,7 @@
     include "funciones.php";
     mostrar_menu();
     include "carousel.html";
-    echo footer()
+    echo footer();
     ?>
 </body>
 </html>
