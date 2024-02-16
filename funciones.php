@@ -70,9 +70,13 @@ function generarTabla($tabla)
 
 ######## FUNCION 2 ########
 
+/*
 function importar_todo($fichero)
 {  
-    //include "conectar.php";
+    include "clases/db.php";
+
+    $importar = new ourdb();
+    $importar->conectar();
 
     $json = file_get_contents($fichero);
     $data = json_decode($json, true);
@@ -156,5 +160,5 @@ function importar_todo($fichero)
 }
 
 importar_todo('games.json');
-
+*/
 ?>
